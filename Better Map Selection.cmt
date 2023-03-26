@@ -1,0 +1,5 @@
+Name=Better Map Selection
+Message=The better map selection mod, totally overhalls the previous menu selection screen for LOCAL GAMES ONLY. The new UI only appears once everybody is ready, then use WASD or the left joystick to move your sticker around and vote for a particular option.
+Author=dotpy
+Links=https://github.com/HueSamai/BetterMapSelection/raw/main/BMSHelper.dll,https://github.com/HueSamai/BetterMapSelection/raw/main/BetterMapSelection.dll,https://github.com/HueSamai/BetterMapSelection/raw/main/bettermapselection,https://raw.githubusercontent.com/CementGB/modules/main/InputModule/InputModule.cmt
+LatestVersion=https://github.com/HueSamai/BetterMapSelection/raw/main/version
