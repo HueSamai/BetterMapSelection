@@ -1,0 +1,7 @@
+Name=BetterMapSelection
+Author=dotpy
+Message=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/message
+CementFile=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BetterMapSelection.cmt
+Links=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BetterMapSelection.dll,https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BMSHelper.dll
+LatestVersion=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/version
+[Editable][Boolean] UseCustomMenu=true
