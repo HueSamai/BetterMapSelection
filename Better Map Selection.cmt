@@ -1,5 +1,0 @@
-Name=Better Map Selection
-Message=The better map selection menu only appears in localy games. Use WASD or the left joystick to move your sticker around and leave it on the option you want to select, no need to press any buttons to lock in your answer. After a couple seconds the map with the most votes will be selected.
-Author=dotpy
-Links=https://github.com/HueSamai/BetterMapSelection/raw/main/BMSHelper.dll,https://github.com/HueSamai/BetterMapSelection/raw/main/BetterMapSelection.dll,https://github.com/HueSamai/BetterMapSelection/raw/main/bettermapselection,https://raw.githubusercontent.com/CementGB/modules/main/InputModule/InputModule.cmt,https://raw.githubusercontent.com/CementGB/modules/main/SceneModule/SceneModule.cmt
-LatestVersion=https://github.com/HueSamai/BetterMapSelection/raw/main/version
