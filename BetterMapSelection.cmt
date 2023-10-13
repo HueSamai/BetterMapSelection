@@ -2,6 +2,6 @@ Name=BetterMapSelection
 Author=dotpy
 Message=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/message
 CementFile=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BetterMapSelection.cmt
-Links=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BetterMapSelection.dll,https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BMSHelper.dll
+Links=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BetterMapSelection.dll,https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/BMSHelper.dll,https://raw.githubusercontent.com/CementGB/modules/main/InputModule/InputModule.cmt,https://raw.githubusercontent.com/CementGB/modules/main/SceneModule/SceneModule.cmt
 LatestVersion=https://raw.githubusercontent.com/HueSamai/BetterMapSelection/master/version
 [Editable][Boolean] UseCustomMenu=true
